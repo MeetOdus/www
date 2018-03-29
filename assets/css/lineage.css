@@ -20,7 +20,7 @@ h3 a:hover {
 }
 
 .jumbotron {
-  background-color: #985e6d;
+  background-color: #ff652f;
   color: white;
   padding: 34px 0 !important;
   border-radius: 0 !important;
@@ -51,7 +51,7 @@ h3 a:hover {
 .navbar {
   box-shadow: none;
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-  background-color: #192231 !important;
+  background-color: #272727 !important;
 }
 
 .navbar .navbar-nav .nav-item.active .nav-link,
@@ -61,7 +61,7 @@ h3 a:hover {
 }
 
 .nav-item {
-  color: #985e6d;
+  color: #ff652f;
 }
 
 .navbar.scrollUp {
@@ -80,16 +80,16 @@ h3 a:hover {
 
 .navbar-brand svg {
   height: 20px;
-  fill: #985e6d;
+  fill: #ff652f;
 }
 
 .navbar .navbar-nav .nav-item .nav-link:not(.btn) .material-icons {
   top: 5px !important;
-  color: #985e6d !important;
+  color: #ff652f !important;
 }
 
 .navbar-toggler-icon {
-  background-color: #985e6d !important;
+  background-color: #ff652f !important;
 }
 
 .navbar-light .navbar-toggler {
@@ -101,7 +101,7 @@ h3 a:hover {
 }
 
 .btn-white {
-  color: #985e6d !important;
+  color: #ff652f !important;
 }
 
 .card {
@@ -126,7 +126,7 @@ h3 a:hover {
 }
 
 .card-title a:hover {
-  color: #985e6d !important;
+  color: #ff652f !important;
 }
 
 .card-text {
@@ -152,11 +152,11 @@ h3 a:hover {
 
 .footer-icons a:hover {
   opacity: 0.5;
-  color: #985e6d !important;
+  color: #ff652f !important;
 }
 
 .footer {
-  background-color: #192231;
+  background-color: #272727;
   padding: 16px 0;
   margin-top: 40px;
 }
