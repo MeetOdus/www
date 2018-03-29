@@ -181,6 +181,10 @@ h3 a:hover {
   color: white !important;
 }
 
+.entry {
+  color: white !important;
+}
+
 .no-script {
   background: #424242;
   color: white;
