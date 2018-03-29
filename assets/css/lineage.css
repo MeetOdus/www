@@ -20,7 +20,7 @@ h3 a:hover {
 }
 
 .jumbotron {
-  background-color: #167c80;
+  background-color: #985e6d;
   color: white;
   padding: 34px 0 !important;
   border-radius: 0 !important;
@@ -75,7 +75,7 @@ h3 a:hover {
 
 .navbar-brand svg {
   height: 20px;
-  fill: #167c80;
+  fill: #985e6d;
 }
 
 .navbar .navbar-nav .nav-item .nav-link:not(.btn) .material-icons {
@@ -83,7 +83,7 @@ h3 a:hover {
 }
 
 .navbar-toggler-icon {
-  background-color: #167c80 !important;
+  background-color: #985e6d !important;
 }
 
 .navbar-light .navbar-toggler {
@@ -95,7 +95,7 @@ h3 a:hover {
 }
 
 .btn-white {
-  color: #167c80 !important;
+  color: #985e6d !important;
 }
 
 .card {
@@ -120,7 +120,7 @@ h3 a:hover {
 }
 
 .card-title a:hover {
-  color: #167c80 !important;
+  color: #985e6d !important;
 }
 
 .card-text {
@@ -146,7 +146,7 @@ h3 a:hover {
 
 .footer-icons a:hover {
   opacity: 0.5;
-  color: #167c80 !important;
+  color: #985e6d !important;
 }
 
 .footer {
