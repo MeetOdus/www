@@ -6,9 +6,9 @@ permalink: /contacts/
 
 ## Come contattarci
 
-### Per mettersi in contatto basta controllare la nostra pagina Facebook o Instagram.
+### Contattaci attraverso le nostre pagine social [Facebook](https://www.facebook.com/meetodus) o [Instagram](https://www.instagram.com/meetodus)
 
-### Oppure, se si preferisce, si può compilare questo form:
+### Oppure compila questo form:
 <br>
 <form action="https://formspree.io/joe2k01dev@gmail.com"
       method="POST">
