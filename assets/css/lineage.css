@@ -104,10 +104,6 @@ h3 a:hover {
   color: #ff652f !important;
 }
 
-.btn-primary:hover {
-  background-color: #ff652f !important;
-}
-
 .card {
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
   margin-bottom: 24px;
