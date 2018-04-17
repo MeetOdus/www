@@ -10,7 +10,7 @@ permalink: /contacts/
 
 ### Oppure compila questo form:
 <br>
-<form action="https://formspree.io/joe2k01dev@gmail.com"
+<form action="https://formspree.io/meetodusit@gmail.com"
       method="POST">
     <p>Cosa vuoi chiederci? <input type="text" name="question"></p>
     <p>Inserisci la tua email <input type="email" name="_replyto"></p>
